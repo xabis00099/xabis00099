@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xabis00099
+- 👋 Hi, I’m Mohammad Zabiullah
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with ones who are really interested in building new projects
